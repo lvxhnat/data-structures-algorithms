@@ -2,3 +2,4 @@
 *.env
 *.tsv
 *.DS_Store
+*.dSYM
